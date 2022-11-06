@@ -27,7 +27,6 @@
               
             ],
             "scripts": [
-              
             ]
           },
           "configurations": {
@@ -93,9 +92,12 @@
               "src/assets"
             ],
             "styles": [
+              "portfolio-LeoArias/node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "portfolio-LeoArias/node_modules/bootstrap/dist/js/bootstrap.js"
+            ]
           }
         }
       }
