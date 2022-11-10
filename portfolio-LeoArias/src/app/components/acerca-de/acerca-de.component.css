@@ -1,9 +1,9 @@
 .row{
     padding: 20px;
-    display: flex;
+    
 }
 div{
-    background-color: #a1b5ca;
+    background-color: #a1b5cb;
     text-align: center;
 }
 /*estilo de foto*/
@@ -14,7 +14,7 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px 3px red;
         left: 3%;
-        top: 760px;
+        top: 650px;
     }
     @media(max-width: 575px){
         #fotodeperfil{
@@ -22,14 +22,14 @@ div{
             width: 30%;
             border-radius: 100%;
             box-shadow: 3px 3px 3px red;
-            left: 30%;
-            top: 760px;
+            left: 33%;
+            top: 950px;
         }
 }
 /*etiqueta nombre*/
 #nombre{
-font-weight:bolder;
-margin-top: 40px;
+font-weight:bold;
+margin-top: 70px;
 
 }
 }
